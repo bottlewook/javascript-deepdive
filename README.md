@@ -18,6 +18,8 @@
 
 스터디는 주 2회로 화, 금 오후 8시에 진행되며 각자 해당 챕터의 내용을 10분정도 정리해서 발표 해주시면 됩니다.
 
+<br />
+
 ##  😄 contributors
 
 <a href="https://github.com/bottlewook/javascript-deepdive/graphs/contributors">
