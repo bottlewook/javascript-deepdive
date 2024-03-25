@@ -33,6 +33,9 @@
 <br />
 
 ## 🚀 index
+> 목차는 [FE재남님의 모던 자바스크립트 Deep Dive](https://www.youtube.com/watch?v=3ZP3VPlrr0U&list=PLjQV3hketAJnP_ceUiPCc8GnNQ0REpCqr) 영상 순서를 따릅니다.
+
+<br />
 
 [2024-03-26 화요일] 4장 변수 / 5장 표현식과 문
 
